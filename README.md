@@ -9,6 +9,8 @@ requirements : python 3.6, Django 2.1
     $ cd wintercoding
     $ python3 manage.py runserver
 
+브라우저를 열고 "127.0.0.1:8000/todolist"를 주소창에 입력하여 과제물을 확인하실 수 있습니다.
+
 ## 2. 사용법
 
 1. 상단의 "Last Update"에는 현재 시각이 표시됩니다.
