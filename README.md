@@ -32,7 +32,7 @@ requirements : python 3.6, Django 2.1
 
 "wintercoding" 디렉토리에서 다음을 수행합니다:
 
-    $ python manage.py test todolist.tests.Testing.test
+    $ python3 manage.py test todolist.tests.Testing.test
 
 
 ## 배포 (가산점)
